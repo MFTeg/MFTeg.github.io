@@ -1,2 +1,2 @@
 # MFTeg.github.io
-Domain
+Github Live Page
